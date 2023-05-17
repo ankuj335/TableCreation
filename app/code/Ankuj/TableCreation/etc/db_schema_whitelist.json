@@ -1,0 +1,13 @@
+{
+    "ankuj_table_creation": {
+        "column": {
+            "id": true,
+            "author_name": true,
+            "email": true,
+            "description": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
